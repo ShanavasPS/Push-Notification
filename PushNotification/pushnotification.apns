@@ -1,0 +1,8 @@
+{
+    "Simulator Target Bundle": "com.shanavas.PushNotification",
+    "aps": {
+        "alert": "Push Notification Message",
+	    "sound": "default",
+        "badge": 1
+    }
+}
