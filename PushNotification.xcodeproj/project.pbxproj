@@ -13,6 +13,7 @@
 		0F52C13E248E2BEB0037583E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F52C13D248E2BEB0037583E /* Assets.xcassets */; };
 		0F52C141248E2BEB0037583E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F52C140248E2BEB0037583E /* Preview Assets.xcassets */; };
 		0F52C144248E2BEB0037583E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F52C142248E2BEB0037583E /* LaunchScreen.storyboard */; };
+		0F52C14C248E2EC00037583E /* pushnotification.apns in Resources */ = {isa = PBXBuildFile; fileRef = 0F52C14B248E2EC00037583E /* pushnotification.apns */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0F52C140248E2BEB0037583E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0F52C143248E2BEB0037583E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0F52C145248E2BEB0037583E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0F52C14B248E2EC00037583E /* pushnotification.apns */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = pushnotification.apns; path = ../../../../Desktop/pushnotification.apns; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		0F52C136248E2BE60037583E /* PushNotification */ = {
 			isa = PBXGroup;
 			children = (
+				0F52C14B248E2EC00037583E /* pushnotification.apns */,
 				0F52C137248E2BE70037583E /* AppDelegate.swift */,
 				0F52C139248E2BE70037583E /* SceneDelegate.swift */,
 				0F52C13B248E2BE70037583E /* ContentView.swift */,
@@ -133,6 +136,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F52C14C248E2EC00037583E /* pushnotification.apns in Resources */,
 				0F52C144248E2BEB0037583E /* LaunchScreen.storyboard in Resources */,
 				0F52C141248E2BEB0037583E /* Preview Assets.xcassets in Resources */,
 				0F52C13E248E2BEB0037583E /* Assets.xcassets in Resources */,
